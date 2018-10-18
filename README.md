@@ -26,6 +26,8 @@ List useful extension or plugins in Visual Studio Code:
 | `Ctrl` + `\` | Side by side editing |
 | `Ctrl` + `K` then `Ctrl` + `X` | Trim trailing whitespace |
 | `Ctrl` + `Shift` + `P` | Open Setting / Preference |
+| `Alt` + `Left` | Go to last cursor (go back) |
+| `Alt` + `Right` | Go to last cursor (forward) |
 
 See [Windows shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) for complete list,
 or [VS Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) for more inspiration.
