@@ -77,7 +77,7 @@ Integrate **Git Bash** in Visual Studio Terminal by adding below setting (later 
 }
 ```
 
-Open your terminal using shortcut `Ctrl` + ` ``
+Open your terminal using shortcut `Ctrl` + ` ` `
 
 ---
 
