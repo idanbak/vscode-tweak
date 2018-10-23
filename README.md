@@ -10,6 +10,7 @@ List useful extension or plugins in Visual Studio Code:
 | [GitLens: Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more |
 | [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2c) | A customizable extension for colorizing matching brackets |
 | [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarksc) | Mark lines and jump to them |
+| [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Real-time collaborative development from the comfort of your favorite tools. |
 | [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) | Highlight columns in comma (.csv), tab (.tsv), semicolon and pipe - separated files in different colors. |
 | [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown) | Instant previews of your markdown files as you type. |
 
