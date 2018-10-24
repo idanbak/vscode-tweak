@@ -43,6 +43,7 @@ Type below example settings for COBOL developer:
 
 ```javascript
 {
+    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}",
     "editor.renderControlCharacters": true,
     "editor.renderWhitespace": "all",
     "window.zoomLevel": 1,
