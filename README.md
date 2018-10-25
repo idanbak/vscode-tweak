@@ -4,7 +4,7 @@ Collection of extension, settings, and tips for Visual Studio Code
 ## Extensions / Plugins
 List of useful extension or plugins in Visual Studio Code:
 
-(1) Main
+**(1) Main**
 
 | Extensions | Description|
 |:--------|:-----------------|
@@ -15,7 +15,9 @@ List of useful extension or plugins in Visual Studio Code:
 | [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Real-time collaborative development from the comfort of your favorite tools. |
 
 
-(2) Misc
+**(2) Misc**
+
+
 | Extensions | Description|
 |:--------|:-----------------|
 | [COBOL](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol) | COBOL, JCL, PL/I & DIR syntax support |
