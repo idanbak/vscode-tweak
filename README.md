@@ -79,7 +79,8 @@ Type below example settings for COBOL developer:
         80
       ],
       "editor.detectIndentation": false,
-      "editor.wordSeparators": "`~!#$%^&*()=+[{]}\\|;:'\",.<>/?"
+      "editor.wordSeparators": "`~!#$%^&*()=+[{]}\\|;:'\",.<>/?",
+      "editor.copyWithSyntaxHighlighting": false
     },
 }
 ```
